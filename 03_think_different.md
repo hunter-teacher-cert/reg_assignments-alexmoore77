@@ -1,5 +1,6 @@
   **Instructions**
   * Describe 3 diffferent strategies for implementing differentiation in a CS class.
+  -Code alongs, code skeletons, and cold calling
   * Things to consider
     - What are you differentiating for (ability, interest, learning style preference...)?
     - Are students being grouped? If so, how?
