@@ -8,7 +8,7 @@ I would grade this as five distinct assignments with points.  There are definite
 Rubric:  Python CSV NYC Historical Population Project
 
 1 _Approaches Standards (70)_:	Python code opens nyc_pop.csv OR reads its contents into a string called text.  	
-1 _Meets Standards (85)_:	Python code opens nyc_pop.csv AND reads its contents into a string called text.	  
+1 _Meets Standards (85)_:	Python code opens nyc_pop.csv AND reads its contents into a string called text.  	  
 1 _Exceeds Standards (100)_:	Python code opens nyc_pop.csv AND reads its contents into a string called text.  The function returns a list with headers only.  
 2 _Approaches Standards (70)_:	The function takes the string and returns a list.	  
 2 _Meets Standards (85)_:  The function takes the string and returns the appropriate list of lists.	  
