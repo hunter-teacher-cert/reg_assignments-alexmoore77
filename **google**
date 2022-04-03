@@ -1,0 +1,22 @@
+Alexander Moore  
+Methods 2  
+Hunter College  
+**google**  
+  
+Programming Task:  A Password Algorithm  
+Task:  Develop an original program in Snap! that will create a password from a URL.      
+ User Input:  Your program should invite the user to enter a URL.  
+Apply Algorithm:  Use an original algorithm to generate an a password with information in the URL.   
+      3) Password Requirements:  The password must be at least eight characters with at least one upper 
+          case letter, at least one lower case letter, and at least one symbol.    
+      4) Connection to URL:  There must be some clear reference to the URL entered.  
+      5) Display:  Display the password string on the screen.    
+Google search #1:  password generator   
+	Results:  no code with algorithms that generated passwords  
+Google search #2:  password generator Snap  
+	Results:  no code with algorithms that generated passwords  
+Google search #3: password generator Scratch  
+	Results:  I found some code, but none of it would satisfy the requirements for this assignment.  
+Critique of the Result:    
+	I did not find any adequate solutions to this exercise in Snap.  The requirements were specific, and the fact that the project was open-ended makes copying easy to spot and hard to justify.  There was not copy-pastable code.    
+	I was reminded through this exercise the value of being able to work with an original curriculum.  When a teacher is using a College Board-approved curriculum, that individual should largely use the assignments within that curriculum; unfortunately, it seems that many of these solutions are already widely shared on the Internet.  I have used a number of workarounds for this, and I have some plans for the future where I am still using the BJC labs in class in a more teacher-centered, code along way but may ask students to complete comparable projects for homework and on quizzes.  This would then allow me to design activities that could not be copied so easily to provide a better learning experience for all students.  I find the students who need the most help are often also the ones who are least likely to ask for support and most likely to turn to shortcuts like copying a YouTube project or uploading a classmate’s code.  The good news is that there are still excellent options even for those of us who are using these shared assignments in an AP class.
